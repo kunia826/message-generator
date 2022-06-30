@@ -1,1 +1,1 @@
-Message Generator: Enter run the code to see a randomized sentence!
+Message Generator: Run the code to see a randomized sentence!
